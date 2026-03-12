@@ -1,0 +1,32 @@
+[
+  {
+    "type": "extinction",
+    "name": "Ordovician–Silurian Extinction",
+    "year": -444000000,
+    "description": "Second largest extinction. ~85% marine species lost."
+  },
+  {
+    "type": "extinction",
+    "name": "Late Devonian Extinction",
+    "year": -372000000,
+    "description": "Multiple extinction pulses affecting marine life."
+  },
+  {
+    "type": "extinction",
+    "name": "Permian–Triassic Extinction",
+    "year": -252000000,
+    "description": "Largest extinction event. ~96% marine species lost."
+  },
+  {
+    "type": "extinction",
+    "name": "Triassic–Jurassic Extinction",
+    "year": -201000000,
+    "description": "Cleared ecological niches for dinosaurs."
+  },
+  {
+    "type": "extinction",
+    "name": "Cretaceous–Paleogene Extinction",
+    "year": -66000000,
+    "description": "Asteroid impact killed dinosaurs."
+  }
+]
